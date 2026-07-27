@@ -16,6 +16,7 @@ directories:
 
 files:
   - main.js
+  - preload-whatsapp.js
   - package.json
   - prospectos.ico
 
